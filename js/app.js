@@ -17,7 +17,6 @@ btnsArray.push(btnK);
 let btnL = document.querySelector('.l');
 btnsArray.push(btnL);
 
-const audioBtn = new Audio();
 
 
 document.addEventListener('keydown', function(event) {
